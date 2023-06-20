@@ -19,6 +19,9 @@ Aplikasi menampilkan daftar tokoh penemu terkenal beserta deskripsi dan penemuan
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://media.discordapp.net/attachments/1120681266002526302/1120681858821259314/Home.png?width=323&height=701" width="200" style="margin-right: 20px;"/>
+  <img src="https://media.discordapp.net/attachments/1120681266002526302/1120681859471396874/Desc_1.png?width=323&height=701" width="200" style="margin-right: 20px;"/>
+  <img src="https://media.discordapp.net/attachments/1120681266002526302/1120681858376683640/Desc_2.png?width=323&height=701" width="200" style="margin-right: 20px;"/>
+  <img src="https://media.discordapp.net/attachments/1120681266002526302/1120681859144233081/Profile.png?width=323&height=701" width="200" style="margin-right: 20px;"/>
 </div>
 
 
