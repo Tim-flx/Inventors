@@ -18,7 +18,7 @@ Aplikasi menampilkan daftar tokoh penemu terkenal beserta deskripsi dan penemuan
 ### Screenshot
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://1drv.ms/i/s!AqG9QKOnYA1IgQ4qNO4UtSd9xHRV?e=l0qgaI" width="200" style="margin-right: 20px;"/>
+  <img src="https://1drv.ms/i/s!AqG9QKOnYA1IgQ4qNO4UtSd9xHRV?e=K1IsKt" width="200" style="margin-right: 20px;"/>
 </div>
 
 
