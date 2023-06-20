@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Inventors</string>
+
+    <string name="inventors_name">Nama Penemu</string>
+    <string name="description">Deskripsi</string>
+    <string name="back_arrow_description">Back Icon</string>
+    <string name="inventors_title">Inventors</string>
+    <string name="profile_icon_description">Profile Icon</string>
+    <string name="coder_name">Felix Timothy Pasaribu</string>
+    <string name="coder_email">a360dsx1108@bangkit.academy</string>
+    <string name="coder_picture">Gambar pembuat</string>
+    <string name="profile_title">Profile</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Alexander Graham Bell</item>
+        <item>Alfred Nobel</item>
+        <item>Charles Babbage</item>
+        <item>George Washington Carver</item>
+        <item>Guglielmo Marconi</item>
+        <item>Henry Ford</item>
+        <item>Johannes Gutenberg</item>
+        <item>Louis Daguerre</item>
+        <item>Nikola Tesla</item>
+        <item>Thomas Alva Edison</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Alexander Graham Bell adalah seorang penemu, ilmuwan, dan insinyur Skotlandia yang dikenal karena penemuannya yang paling terkenal, yaitu telepon pada tahun 1876. Selain penemuannya yang terkenal tersebut, Bell juga memiliki kontribusi penting dalam bidang ilmu pengetahuan dan teknologi lainnya seperti optik, penerbangan, dan pendidikan orang tuna rungu. Ia juga merupakan salah satu pendiri National Geographic Society. Selama hidupnya, Bell telah memiliki banyak paten yang terdaftar di Amerika Serikat dan di seluruh dunia. Salah satu penemuan penting lainnya adalah fotofon, alat yang dapat mengubah suara menjadi cahaya dan kemudian kembali menjadi suara. Alexander Graham Bell adalah seorang inventor (penemu) yang produktif dan sangat berjasa dalam perkembangan teknologi modern.</item>
+        <item>Alfred Nobel adalah seorang penemu, insinyur, dan kimiawan Swedia yang terkenal karena penemuannya yang paling terkenal, yaitu dinamit. Ia lahir pada 21 Oktober 1833 di Stockholm, Swedia dan meninggal pada 10 Desember 1896 di San Remo, Italia. Selain penemuannya yang terkenal, Nobel juga memiliki kontribusi penting dalam bidang kimia dan teknik, termasuk penemuan bubuk peledak nitroglycerin dan cordite. Nobel juga dikenal sebagai seorang filantropis yang sangat dermawan, yang menyumbangkan sebagian besar kekayaannya untuk mendirikan Penghargaan Nobel, penghargaan yang diberikan setiap tahun untuk menghargai kontribusi terbesar di bidang fisika, kimia, kedokteran, sastra, dan perdamaian dunia. Penghargaan ini merupakan warisan besar dari Alfred Nobel dan terus memengaruhi dunia hingga saat ini.</item>
+        <item>Charles Babbage adalah seorang matematikawan, ilmuwan komputer, dan inventor asal Inggris yang hidup pada abad ke-19. Ia dikenal sebagai "bapak komputer" karena ia menciptakan konsep mesin komputasi otomatis yang dapat diprogram dan menjadi dasar bagi pengembangan komputer modern. Babbage lahir pada 26 Desember 1791 di London, Inggris dan meninggal pada 18 Oktober 1871. Ia menemukan beberapa mesin komputasi seperti Mesin Analitik, mesin yang sangat kompleks dan rumit yang membutuhkan banyak uang dan waktu untuk pembuatannya. Selama hidupnya, Babbage juga aktif dalam berbagai bidang lain seperti matematika, astronomi, dan arsitektur. Meskipun tidak pernah berhasil membangun mesin komputasi otomatis yang sempurna pada masanya, kontribusinya pada perkembangan komputer modern sangatlah penting dan menginspirasi banyak orang untuk mengembangkan teknologi komputer hingga saat ini.</item>
+        <item>George Washington Carver adalah seorang ahli botani, agronomi, dan inventor asal Amerika Serikat yang terkenal karena penelitiannya tentang tanaman kacang-kacangan dan banyak kontribusinya dalam bidang pertanian. Ia lahir sebagai seorang budak di Missouri pada sekitar tahun 1864 dan meninggal pada 5 Januari 1943 di Alabama. Carver dikenal sebagai tokoh yang sangat inovatif dan mengembangkan berbagai produk dari kacang-kacangan, seperti mentega kacang dan pasta kacang, yang pada saat itu menjadi produk yang sangat populer. Selain itu, ia juga melakukan penelitian tentang tanaman bermanfaat lainnya, seperti kacang kedelai dan kacang tanah, dan memberikan banyak kontribusi pada bidang pertanian di Amerika Serikat. Carver dianggap sebagai salah satu tokoh paling penting dalam sejarah pertanian dan inovasi teknologi di Amerika Serikat, serta menjadi inspirasi bagi banyak orang karena ketekunan dan semangatnya dalam mencapai kesuksesan di tengah-tengah diskriminasi rasial.</item>
+        <item>Guglielmo Marconi adalah seorang ilmuwan, inventor, dan pengusaha asal Italia yang terkenal karena penemuannya yang paling terkenal, yaitu sistem komunikasi nirkabel atau radio. Ia lahir pada 25 April 1874 di Bologna, Italia dan meninggal pada 20 Juli 1937 di Roma. Marconi mengembangkan teknologi radio pada awal abad ke-20, dan membuat terobosan besar dalam bidang telekomunikasi yang mengubah dunia dengan memungkinkan komunikasi nirkabel jarak jauh. Penemuannya memberikan dampak besar pada berbagai sektor, seperti pelayaran, penerbangan, militer, dan telekomunikasi. Marconi juga terkenal sebagai seorang pengusaha yang sukses, yang mendirikan perusahaan telekomunikasi pertama di dunia, yaitu Marconi Company. Atas kontribusinya, ia dianugerahi berbagai penghargaan dan kehormatan, termasuk Penghargaan Nobel Fisika pada tahun 1909. Guglielmo Marconi dianggap sebagai tokoh yang sangat berjasa dalam sejarah perkembangan teknologi telekomunikasi dan menjadi inspirasi bagi banyak penemu dan ilmuwan di seluruh dunia.</item>
+        <item>Henry Ford adalah seorang industrialis, inventor, dan pendiri perusahaan mobil Ford Motor Company yang terkenal di seluruh dunia. Ia lahir pada 30 Juli 1863 di Greenfield Township, Michigan, Amerika Serikat dan meninggal pada 7 April 1947 di Dearborn, Michigan. Henry Ford dikenal karena inovasinya dalam produksi massal mobil dengan menggunakan jalur perakitan bergerak atau assembly line, yang mengubah industri mobil dan memungkinkan produksi massal mobil dengan cepat dan efisien. Inovasinya tersebut menjadikan mobil lebih terjangkau bagi masyarakat dan membuka lapangan pekerjaan baru dalam skala besar. Ford juga merupakan seorang pengusaha yang sukses dan sosialita yang peduli dengan keberhasilan pekerja dan komunitas. Ia memperkenalkan program "Five-Dollar Day" yang memberikan upah yang tinggi untuk pekerja di pabrik mobilnya dan mendukung gerakan anti-perang dan anti-Semit. Henry Ford dianggap sebagai salah satu tokoh paling berpengaruh dalam sejarah industri mobil dan dihormati sebagai seorang inovator dan visioner yang telah memberikan kontribusi besar pada kemajuan teknologi dan perkembangan sosial.</item>
+        <item>Johannes Gutenberg adalah seorang penemu, pengusaha, dan pencetak buku asal Jerman yang terkenal karena penemuannya yang paling terkenal, yaitu mesin cetak dengan huruf metal atau yang lebih dikenal dengan sebutan mesin cetak Gutenberg. Ia lahir pada sekitar tahun 1398 di Mainz, Jerman dan meninggal pada 3 Februari 1468 di sama tempat. Penemuan Gutenberg mengubah cara buku diproduksi dan memungkinkan pembuatan buku dalam jumlah besar dan dengan cepat. Ia menggunakan huruf metal tercetak terpisah yang dapat digunakan kembali untuk mencetak berbagai jenis teks. Mesin cetaknya memberikan dampak besar pada perkembangan budaya, sosial, dan intelektual pada abad ke-15 dan selanjutnya. Karya-karya sastra dan ilmiah menjadi lebih mudah diproduksi dan menyebar dengan cepat ke seluruh Eropa. Penemuan mesin cetak Gutenberg dianggap sebagai salah satu inovasi teknologi terbesar dalam sejarah manusia, dan ia dihormati sebagai salah satu penemu paling berpengaruh di dunia.</item>
+        <item>Louis Daguerre adalah seorang seniman, penemu, dan fotografer asal Prancis yang dikenal karena penemuannya dalam bidang fotografi yang terkenal, yaitu daguerreotype, suatu teknik fotografi yang menggunakan plat tembaga yang dilapisi perak dan bahan kimia tertentu untuk membuat gambar fotografi. Ia lahir pada 18 November 1787 di Cormeilles-en-Parisis, Prancis dan meninggal pada 10 Juli 1851 di Bry-sur-Marne, Prancis. Daguerre bekerja sama dengan Joseph Nicéphore Niépce untuk mengembangkan teknologi fotografi dan berhasil menghasilkan gambar yang dapat dipertahankan pada permukaan logam. Penemuan daguerreotype memungkinkan pembuatan gambar yang lebih jelas dan presisi, dan teknologi ini mendapatkan popularitas yang besar di seluruh dunia pada abad ke-19. Louis Daguerre juga terkenal sebagai seorang seniman dan pemilik teater yang sukses di Prancis. Ia dianggap sebagai salah satu tokoh yang sangat berjasa dalam perkembangan fotografi dan seni rupa, dan pengaruhnya masih terasa hingga saat ini.</item>
+        <item>Nikola Tesla adalah seorang penemu, insinyur, dan fisikawan kelahiran Kroasia yang menjadi salah satu tokoh paling berpengaruh dalam sejarah teknologi modern. Ia dikenal sebagai penemu AC (arus bolak-balik) yang memungkinkan transmisi listrik jarak jauh, dan banyak penemuan lainnya dalam bidang elektromagnetik dan teknologi listrik. Ia lahir pada 10 Juli 1856 di Smiljan, Kroasia, dan meninggal pada 7 Januari 1943 di New York City, Amerika Serikat. Tesla bekerja di perusahaan Thomas Edison sebelum memulai karirnya sendiri dan merintis perusahaan sendiri. Selama hidupnya, Tesla mengembangkan sejumlah teknologi revolusioner seperti motor AC, transformator, coil Tesla, dan sistem pembangkit tenaga listrik nirkabel, yang semuanya masih digunakan dalam industri modern hingga saat ini. Selain itu, Tesla juga merupakan seorang visioner dan pemikir futuristik yang memiliki banyak ide canggih tentang teknologi, termasuk energi terbarukan, pesawat terbang, dan komunikasi global. Walaupun dianggap sebagai salah satu penemu terbesar sepanjang masa, Tesla terkadang mengalami kesulitan dalam mencapai kesuksesan komersial pada masa hidupnya, namun warisan teknologinya tetap memengaruhi dunia hingga saat ini.</item>
+        <item>Thomas Alva Edison adalah seorang penemu, pengusaha, dan insinyur asal Amerika Serikat yang dikenal karena berbagai penemuan canggihnya yang memengaruhi banyak aspek kehidupan modern. Ia lahir pada 11 Februari 1847 di Milan, Ohio, Amerika Serikat dan meninggal pada 18 Oktober 1931 di West Orange, New Jersey, Amerika Serikat. Edison dikenal sebagai penemu lampu pijar atau bola lampu pertama yang praktis dan hemat energi. Selain itu, ia juga berhasil menciptakan mesin fonograf, alat pemindai kinetoskop, dan peralatan telekomunikasi lainnya yang masih digunakan hingga saat ini. Edison juga merupakan seorang pengusaha yang sukses dan membuka banyak perusahaan dalam bidang teknologi, seperti General Electric. Ia dianggap sebagai salah satu penemu terbesar dalam sejarah manusia dan memenangkan banyak penghargaan selama hidupnya. Edison juga merupakan seorang inovator dan inspirator, yang mengajarkan pentingnya kerja keras dan ketekunan dalam mencapai kesuksesan. Warisan teknologi dan ide-idenya terus memengaruhi dunia hingga saat ini, dan ia tetap dihormati sebagai salah satu tokoh terpenting dalam sejarah teknologi.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/alexander_graham_bell</item>
+        <item>@drawable/alfred_nobel</item>
+        <item>@drawable/charles_babbage</item>
+        <item>@drawable/george_washington_carver</item>
+        <item>@drawable/guglielmo_marconi</item>
+        <item>@drawable/henry_ford</item>
+        <item>@drawable/johannes_gutenberg</item>
+        <item>@drawable/louis_daguerre</item>
+        <item>@drawable/nikola_tesla</item>
+        <item>@drawable/thomas_alva_edison</item>
+    </integer-array>
+    <integer-array name="data_penemuan">
+        <item>@drawable/telepon_agb</item>
+        <item>@drawable/tnt_an</item>
+        <item>@drawable/komputer_cb</item>
+        <item>@drawable/gwc</item>
+        <item>@drawable/radio_gm</item>
+        <item>@drawable/mobil_hf</item>
+        <item>@drawable/mesincetak_jg</item>
+        <item>@drawable/kamera_ld</item>
+        <item>@drawable/nt</item>
+        <item>@drawable/lampu_tae</item>
+    </integer-array>
+</resources>
